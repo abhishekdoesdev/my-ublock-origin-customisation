@@ -15,7 +15,7 @@
 - ❌ Heavy system resource usage
 
 ### How to import these settings to your ublock origin?
-1. Download the config file
+1. Download the [config file] (https://github.com/abhishekdoesdev/my-ublock-origin-customisation/releases/download/new/my-ublock-backup.txt) 
 2. Click on the extension's icon and click on the settings button
 [[1.png]]
 
